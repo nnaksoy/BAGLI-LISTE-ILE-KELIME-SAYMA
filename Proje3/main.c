@@ -1,4 +1,4 @@
-//OKTAY KARABIYIKOÐLU 190201015 NÝSANUR AKSOY 190201048
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
